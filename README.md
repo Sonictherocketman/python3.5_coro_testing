@@ -33,11 +33,11 @@ Results
 *Retina Macbook Pro (2014, 13")*
 
 <table>
-    <th>
-        <td>Type</td>
-        <td>Test</td>
-        <td>Time</td>
-    </th>
+    <tr>
+        <th>Type</th>
+        <th>Test</th>
+        <th>Time</th>
+    </tr>
     <tr>
         <td>CPU Bound</td>
         <td>Serial</td>
