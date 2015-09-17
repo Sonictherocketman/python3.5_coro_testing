@@ -18,6 +18,9 @@ Each of the tests contains 5 parts:
 - Python 3.5 async Coroutines (using a multiprocessing pool)
 - Python 3.5 async Coroutines (using a threading pool)
 
+Each of the 3 test types should be taken seperately as they contain different
+computations.
+
 Test it yourself
 ---------------
 
@@ -27,8 +30,8 @@ Test it yourself
     bash run.sh
 
 
-Results
--------
+Sample Results
+--------------
 
 *Retina Macbook Pro (2014, 13")*
 
